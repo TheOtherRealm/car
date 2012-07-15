@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">The... Car!</string><string name="X">X:</string><string name="Y">Y:</string><string name="Z">Z:</string><string name="left">←</string><string name="right">→</string><string name="back">↓</string><string name="stop">╳</string><string name="forward">↑</string><string name="fleft">↖</string><string name="fright">↗</string><string name="bleft">↙</string><string name="bright">↘</string>
+    <string name="A">A</string>
+    <string name="B">B</string>
+    <string name="C">C</string>
+    <string name="D">D</string>
+    <string name="bt_not_available">Bluetooth not available</string>
+    <string name="connect_fail">Connect fail..</string>
+    <string name="connection_lost">Connection lost..</string>
+    <string name="bt_not_enable">Bluetooth fail..</string>
+    <string name="connecting">connecting</string>
+    <string name="not_connected">not connected</string>
+    <string name="connected_to">connected to：</string>
+    <string name="connect">connect</string>
+    <string name="title_paired_devices">Paired devices</string>
+    <string name="title_new_devices">New devices</string>
+    <string name="button_scan">Scan</string>
+    <string name="none_paired">none paired</string>
+    <string name="scanning">scanning..</string>
+    <string name="none_found">Found nothing</string>
+    <string name="select_device">SelectDevice</string>
+    <string name="set_neutral">SET</string>
+    <string name="Speed">Speed:</string>
+    <string name="Direction">Direction:</string>
+    <string name="Gravity">Gravity:</string>
+    <string name="isout">Exit?</string>
+    <string name="yes">Yes.</string>
+    <string name="no">No..</string>
+    <string name="help">about</string>
+    <color name="white">#FFFFFF</color>
+    <string name="remoteOff">Remote is Off</string>
+    <string name="remoteOn">Remote is On</string>
+</resources>
